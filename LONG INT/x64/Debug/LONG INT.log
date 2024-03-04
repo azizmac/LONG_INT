@@ -1,0 +1,5 @@
+﻿  LONG INT.cpp
+C:\Users\Илья\source\repos\LONG INT\LONG INT\LONG INT.cpp(28,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  LONG INT.vcxproj -> C:\Users\Илья\source\repos\LONG INT\x64\Debug\LONG INT.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
